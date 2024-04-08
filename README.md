@@ -1,2 +1,2 @@
-# Projeto Final de Lógica de Programção
-O intuito deste repositório é registrar a trajetória do grupo, e o programa final realizado durante o Projeto Final da disciplina Lógica de Programação, do curso 'Serratec - Desenvolvedor Full-Stack".
+# Lógica de Programação
+O intuito deste repositório é registrar a minha trajetória na disciplina, além de compartilhar o  projeto final realizado pelo grupo 4, do curso "Serratec - Desenvolvedor Full-Stack".
